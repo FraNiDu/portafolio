@@ -1,0 +1,28 @@
+- name: "NIC Chile Research Labs"
+  image: "1.jpg"
+  img-alt: "image description"
+  year: "2013"
+  text: "User-Centered Design Assistant. I was in charge of several projects in the health area, where we did user study cases, mockup, user testing, application launch."
+  side: left
+
+- name: "Freelancer"
+  image: "2.jpg"
+  img-alt: "image description"
+  year: "2013 - 2014"
+  text: " I collaborate in the development of different websites, illustrations, logos, audiovisual production and post production, user experience among other things."
+  side: right
+
+- name: "Mitocondria"
+  image: "3.jpg"
+  img-alt: "image description"
+  year: "2014 - 2015"
+  text: "Develop different mobile and web applications for prestigious clients. In addition to completely redesigning the flagship E-Commerce solution of the company.
+My tasks were divided between generating meetings where the requirements of each project were discussed, doing the corresponding studies and testing to get the approval of each of these"
+  side: left
+
+- name: "Freelancer"
+  image: "4.jpg"
+  img-alt: "image description"
+  year: "2015 - 2018"
+  text: " have dedicated consulting and projects to companies in which I have developed user studies, websites, mobile app, usability consultancies on websites, logo design, advertising campaigns for brands, designs for advertising among other things."
+  side: right
