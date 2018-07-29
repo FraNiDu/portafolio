@@ -1,5 +1,13 @@
+- name: "Red&Blue"
+  image: "red.jpg"
+  img-alt: "image description"
+  year: "2013"
+  text: "Multimedia.I was in charge of the advertising campaigns in digital media of brands such as: Honda, optical Place Vendome, Cristal among others. Also participate in the construction of websites and visual advertisements for Honda and Place Vandome."
+  side: right
+
+
 - name: "NIC Chile Research Labs"
-  image: "1.jpg"
+  image: "nic.jpg"
   img-alt: "image description"
   year: "2013"
   text: "User-Centered Design Assistant. I was in charge of several projects in the health area, where we did user study cases, mockup, user testing, application launch."
@@ -13,7 +21,7 @@
   side: right
 
 - name: "Mitocondria"
-  image: "3.jpg"
+  image: "mito.jpg"
   img-alt: "image description"
   year: "2014 - 2015"
   text: "Develop different mobile and web applications for prestigious clients. In addition to completely redesigning the flagship E-Commerce solution of the company.
