@@ -1,36 +1,33 @@
-- name: "Kay Garland"
-  bio: "Lead Designer"
-  twitter: konklone
-  facebook: konklone
-  linkedin: konklone
+- name: "Dra. María Jesús Silva"
+  bio: "Cirujana Dentista"
+  #twitter: konklone
+  #facebook: konklone
+  #linkedin: konklone
   photo: jesus_logo.jpg
 
-- name: "Larry Parker"
-  bio: "Lead Marketer"
-  twitter: parkr
-  facebook: parkr
-  linkedin: parkr
+- name: "Team Yet"
+  bio: "Coach Weightlifting"
+  #twitter: parkr
+  #facebook: parkr
+  #linkedin: parkr
   photo: team_yet.jpg
 
-- name: "Diana Pertersen"
-  bio: "Lead Developer"
-  twitter: liufengyun
-  facebook: liufengyun
-  linkedin: liufengyun
+- name: "Buen Trato"
+  bio: "Tienda Bebe"
+  #twitter: liufengyun
+  ##linkedin: liufengyun
   photo: buentrato.jpg
 
-- name: "Diana Pertersen"
-  bio: "Lead Developer"
-  twitter: liufengyun
-  facebook: liufengyun
-  linkedin: liufengyun
+- name: "Felices Gallinas"
+  bio: "Tienda Organica de huevos"
+  #twitter: liufengyun
+  #facebook: liufengyun
+  #linkedin: liufengyun
   photo: felicesgallinas.jpg
 
-- name: "Diana Pertersen"
-  bio: "Lead Developer"
-  twitter: liufengyun
-  facebook: liufengyun
-  linkedin: liufengyun
+- name: "Powerlifting SFCF"
+  bio: "Powerlifting"
+  #twitter: liufengyun
+  #facebook: liufengyun
+  #linkedin: liufengyun
   photo: powerlifting.jpg
-
-  
