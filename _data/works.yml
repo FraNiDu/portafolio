@@ -20,7 +20,42 @@
   photo: "mannheim.jpg"
   img-alt: "Photo description"
   id: "portfolioModal02"
-  description: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, reiciendis facere nemo!"
+  problema: "Problema: Mannheim ha sido un sistema engorroso para sus propios usuarios, además de no estar actualizado, fue creados hace mas de 10 años, este nunca tuvo un estudio
+  de usuario final. Los usuarios cada vez que cotizan un repuesto tienen que abrir multi pantallas haciendo esto dificil para cotizar, además de tomarle más tiempo de lo necesario.
+  Problemas actuales:
+    ●	Cuentan con un sitio web sin jerarquización de contenidos.
+    ●	No se tiene claro el ingreso para poder comprar repuestos.
+    ●	Buscador poco intuitivo.
+    ●	Problemas de proceso que tiene la versión actual.
+    ●	Poco tiempo para realizar arquitectura del E-commerce.
+    ●	Los roles de diferentes perfiles no tienen diferenciación a la hora de buscar productos o querer hacer una oferta a alguno de sus clientes."
+  definicion-de-Producto: " Definición de Producto: Pretendemos reemplazar la actual plataforma de cotizaciones y búsqueda de productos Mannheim por una versión fácil y rápida de utilizar, mejorando muchos
+    de los problemas de proceso que tiene la versión actual."
+  solucion: "Solución: crear un buscador de facil uso donde puedan cotizar los repuesto de forma rápida, ágil y sin un mayor requerimiento tecnológico."
+  grupo-objetivo: "Grupo Objetivo: Nuestros usuarios son vendedores de repuestos automotrices, algunos jovénes y otros que llevan más de 40 años vendiendo repuestos. No todos los usuarios estan familiarizados con computadores
+  algunos jamás han manejado uno y otros tiene computadores con windows 95.
+  -Hombres de entre 20 a 60 años
+  -Son reales enciclopedias de repuestos, solo con su cabeza.
+  -Recuerdan precios y nombres de forma mental.
+  -No están muy relacionados con la tecnológia.
+  -Personas que no tienen redes sociales o sitio web para sus tiendas.
+  -No les gusta los cambios al menos que sean faciles y les beneficie. "
+  intereses: " Intereses: estan todo el día hablando de repuesto, basicamente ellos solo les interesa ofrecer el mejor precio y poder vender sus productos mensualmente. Se conocen todos los usuarios entre tiendas en 10 de Julio, inclusive
+  si no tienen ellos el repuestos, te mandan a otras tiendas con el nombre de la persona que lo vende y que te puede ayudar."
+  estrategia: "Estrategia: El presente proyecto pretende reemplazar la actual plataforma de cotizaciones y búsqueda de productos de Mannheim por una versión más fácil y rápida de utilizar, mejorando muchos de los problemas de proceso que tiene la versión actual. Proponemos construir e implementar un sistema de autoatención de tipo B2B sobre nuestra solución de comercio electrónico Vendorama, pues esta tiene resuelta gran parte de la problemática de la venta en línea.
+  Sobre esta plataforma se realizarán las siguientes adaptaciones especiales para este proyecto:
+
+  ●	Integración con el ERP de Mannheim.
+  ●	Implementación de autenticación de 2 factores.
+  ●	Implementación de flujo de autorización responsive.
+  ●	Implementación de estructura especial para el catálogo de productos.
+  ●	Implementación de sistema de equivalencias de partes.
+  ●	Implementación de buscador inteligente de partes."
+  etapas: "-Investigación: preguntarle de forma exhaustiva a los usuarios que usan Mannheim, que necesitan ellos para tener un mejor buscador de repuesto y poder hacer las cotizaciones de forma rápida, ademas de pagos, stock y todo lo que el sistema anteruo no tiene y les gustaria tener.
+  -Conclusiones:La mayoría de nuestros usuarios se familiarizan de forma perfecta con este sistema. Lo que ellos en mayor parte manifiestan que necesitan un sistema fácil de usar, donde no tengan que abrir multi búsquedas para poder cotizar sus prodcutos, poder tener el stock, pagos y todo lo que el sistema
+  antiguo, con mejoras y más moderno.
+  -Competencia: uno de de las competenicas de Mannheim es Noriega."
+  plan-de-trabajo: ""
   claim: "Lorem ipsum dolor sit amet consectetur."
   call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
 

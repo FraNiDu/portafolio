@@ -20,13 +20,28 @@
                                 <h2>{{ project.name }}</h2>
                                 <p class="item-intro text-muted">{{ project.claim }}</p>
                                 <img class="img-responsive img-centered" src="/assets/img/portfolio/large-{{ project.photo }}" alt="{{ project.img-alt }}">
-                                <p>{{ project.description }}</p>
+                                <p>{{ project.problema }}</p>
+                                <p>{{ project.definicion-de-Producto }}</p>
+                                <p>{{ project.definicion-de-solucion }}</p>
+                                <p>{{ project.definicion-de-grupo-objetivo }}</p>
+                                <ul class="list-group">
+                                    <li>Integración con el ERP de Mannheim </li>
+                                    <li>Implementación de autenticación de 2 factores </li>
+                                    <li>Implementación de flujo de autorización responsive</li>
+                                    <li>Implementación de estructura especial para el catálogo de productos</li>
+                                    <li>Implementación de sistema de equivalencias de partes </li>
+                                    <li>Implementación de buscador inteligente de partes </li>
+                                    </ul>
+                                <p>{{ project.intereses}} </p>
+                                <p>{{ project.estrategia }}</p>
+                                <p>{{ project.etapas }}</p>
+                                <p>{{ project.plan-de-trabajo }}</p>
                                 <p><strong>{{ project.call-to-action }}</strong></p>
                                 <p>Project site: <a href="{{ project.web }}">{{ project.web }}</a></p>
                                 <ul class="list-inline">
                                     <li>Date: {{ project.date }}</li>
                                     <li>Client: {{ project.client }}</li>
-                                    <li>Category: {{ project.category }}</li>                      
+                                    <li>Category: {{ project.category }}</li>
                                 </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
