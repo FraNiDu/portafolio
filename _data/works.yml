@@ -17,11 +17,11 @@
   date: "May 2015"
   client: "Client name"
   web: "http://"
+  #web: "https://gn5h1j.axshare.com/"
   photo: "mannheim.jpg"
   img-alt: "Photo description"
   id: "portfolioModal02"
   problema: "Problema: Mannheim ha sido un sistema engorroso para sus propios usuarios, además de no estar actualizado, fue creados hace mas de 10 años, este nunca tuvo un estudio
-  de usuario final. Los usuarios cada vez que cotizan un repuesto tienen que abrir multi pantallas haciendo esto dificil para cotizar, además de tomarle más tiempo de lo necesario.
   Problemas actuales:
     ●	Cuentan con un sitio web sin jerarquización de contenidos.
     ●	No se tiene claro el ingreso para poder comprar repuestos.
@@ -31,32 +31,177 @@
     ●	Los roles de diferentes perfiles no tienen diferenciación a la hora de buscar productos o querer hacer una oferta a alguno de sus clientes."
   definicion-de-Producto: " Definición de Producto: Pretendemos reemplazar la actual plataforma de cotizaciones y búsqueda de productos Mannheim por una versión fácil y rápida de utilizar, mejorando muchos
     de los problemas de proceso que tiene la versión actual."
-  solucion: "Solución: crear un buscador de facil uso donde puedan cotizar los repuesto de forma rápida, ágil y sin un mayor requerimiento tecnológico."
   grupo-objetivo: "Grupo Objetivo: Nuestros usuarios son vendedores de repuestos automotrices, algunos jovénes y otros que llevan más de 40 años vendiendo repuestos. No todos los usuarios estan familiarizados con computadores
-  algunos jamás han manejado uno y otros tiene computadores con windows 95.
-  -Hombres de entre 20 a 60 años
-  -Son reales enciclopedias de repuestos, solo con su cabeza.
-  -Recuerdan precios y nombres de forma mental.
-  -No están muy relacionados con la tecnológia.
-  -Personas que no tienen redes sociales o sitio web para sus tiendas.
-  -No les gusta los cambios al menos que sean faciles y les beneficie. "
+    algunos jamás han manejado uno y otros tiene computadores con windows 95.
+    -Hombres de entre 20 a 60 años
+    -Son reales enciclopedias de repuestos, solo con su cabeza.
+    -Recuerdan precios y nombres de forma mental.
+    -No están muy relacionados con la tecnológia.
+    -Personas que no tienen redes sociales o sitio web para sus tiendas.
+    -No les gusta los cambios al menos que sean faciles y les beneficie. "
   intereses: " Intereses: estan todo el día hablando de repuesto, basicamente ellos solo les interesa ofrecer el mejor precio y poder vender sus productos mensualmente. Se conocen todos los usuarios entre tiendas en 10 de Julio, inclusive
-  si no tienen ellos el repuestos, te mandan a otras tiendas con el nombre de la persona que lo vende y que te puede ayudar."
+    si no tienen ellos el repuestos, te mandan a otras tiendas con el nombre de la persona que lo vende y que te puede ayudar."
   estrategia: "Estrategia: El presente proyecto pretende reemplazar la actual plataforma de cotizaciones y búsqueda de productos de Mannheim por una versión más fácil y rápida de utilizar, mejorando muchos de los problemas de proceso que tiene la versión actual. Proponemos construir e implementar un sistema de autoatención de tipo B2B sobre nuestra solución de comercio electrónico Vendorama, pues esta tiene resuelta gran parte de la problemática de la venta en línea.
-  Sobre esta plataforma se realizarán las siguientes adaptaciones especiales para este proyecto:
+    Sobre esta plataforma se realizarán las siguientes adaptaciones especiales para este proyecto:
 
-  ●	Integración con el ERP de Mannheim.
-  ●	Implementación de autenticación de 2 factores.
-  ●	Implementación de flujo de autorización responsive.
-  ●	Implementación de estructura especial para el catálogo de productos.
-  ●	Implementación de sistema de equivalencias de partes.
-  ●	Implementación de buscador inteligente de partes."
+    ●	Integración con el ERP de Mannheim.
+    ●	Implementación de autenticación de 2 factores.
+    ●	Implementación de flujo de autorización responsive.
+    ●	Implementación de estructura especial para el catálogo de productos.
+    ●	Implementación de sistema de equivalencias de partes.
+    ●	Implementación de buscador inteligente de partes."
   etapas: "-Investigación: preguntarle de forma exhaustiva a los usuarios que usan Mannheim, que necesitan ellos para tener un mejor buscador de repuesto y poder hacer las cotizaciones de forma rápida, ademas de pagos, stock y todo lo que el sistema anteruo no tiene y les gustaria tener.
   -Conclusiones:La mayoría de nuestros usuarios se familiarizan de forma perfecta con este sistema. Lo que ellos en mayor parte manifiestan que necesitan un sistema fácil de usar, donde no tengan que abrir multi búsquedas para poder cotizar sus prodcutos, poder tener el stock, pagos y todo lo que el sistema
   antiguo, con mejoras y más moderno.
   -Competencia: uno de de las competenicas de Mannheim es Noriega."
   plan-de-trabajo: ""
-  claim: "Lorem ipsum dolor sit amet consectetur."
+  map1: "Mapa de Navegación"
+  map: "map.jpg"
+  pasos-a-seguir: "Pasos a seguir:
+    1.	Login
+    •	Login olvidaste tu contraseña
+    •	Login E-mail no valido
+    •	Login estado de cliente cerrad o inactivo
+    •	Login  clave invalida ingresada más de 3 veces
+  2.	Home:
+    •	En el Header
+    o	Imagen de perfil con su nombre
+    o	Carro de compra
+    •	Menú con seis categorías
+    ♣	Inicio.
+    ♣	Automóvil
+    ♣	Línea Productos
+    ♣	Fabricante
+    ♣	Ofertas Novedades
+    •	Despliegue de producto en Ofertas y Novedades.
+    ♣	Ofertas grilla de carrusel ( con doce imágenes de ofertas en total, esto lo define cliente) con banda el la esquina con el % de descuento que se esta haciendo.
+    ♣	Novedades al igual que ofertas grilla al estilo carrusel.
+    ♣	Estas muestran el Título Producto/ Fabricantes / Código Mannhein/ Aplicación (tootltip) / Precio/ Stock /Botón agregar al Carro.
+  •	Banners administrables:
+    o	Banners en la home
+    ♣	banner principal, montado como slider
+    ♣	3 Banners de productos destacados
+    3.	Información Corporativa
+    ♣	Fabricante
+    ♣	Ofertas
+    ♣	Novedades
+    ♣	Quiénes somos
+    4.	Buscador por productos
+    •	Filtro de categoría
+    •	Filtro sub-categoría
+    •	Filtro Sub- Subcategoría
+    •	Semántica (tipo google).
+    5.	Ficha de producto
+    ♣	Botón con opción ocultar .
+    ♣	Precio
+    ♣	IVA
+    ♣	Cantidad
+    ♣	Botón Agregar al carro
+    #♣	Tres botones de:
+    o	Agregar a Lista de favoritos
+    o	Dudas sobre el producto
+    o	Historial de compras
+    ♣	Ficha del producto debe tener
+    o	Título del producto
+    o	Código Mannhein
+    o	Código OEM
+    o	Origen
+    o	Stock
+    o	Contacto
+    o	Descripción
+    ♣	Imagen de producto
+    o	Vista 3D
+    o	Otras imágenes del producto
+    o	Video
+    ♣	Seis TABS :
+    o	Especificación Técnica.
+    o	Aplicaciones
+    o	Alternativas
+    o	Productos Relacionados
+    o	Adjuntos
+    o	Condiciones de despacho
+    6.	Carro de compra o check out
+    •	Vista del detalle de los productos agregados
+    •	Se tendra alerta si se pasa del umbral
+    •	Documentar
+    •	Mostrar productos guardados
+    •	Despacho
+    •	Resumen de orden
+    •	Orden de compra enviada
+    •	Errores ( compra fallida, 404, error de servidor)
+    7.	Roles de Perfil Mannhein
+    •	Perfil Cliente
+  #  ♣	Menú del usuario:
+    o	Notificaciones
+    o	Seguimiento
+    o	Orden de compra sugerida
+    o	Lista productos favoritos
+    o	Historial de compras
+    o	Respuesta dudas productos
+    o	Cuenta Corriente
+    o	Mis Datos
+    •	Perfil Cotizador
+    #♣	Menú del usuario:
+    o	Notificaciones
+    o	Solicitudes de Pedido
+    o	Lista productos Favoritos
+    o	Mis fatos
+    •	Perfil Adquisiciones
+    #♣	Menú del usuario:
+    o	Notificaciones
+    o	Consolidar solicitudes de pedido
+    o	Orden de compra sugerida Vendedor
+    o	Seguimiento
+    o	Cuenta Corriente
+    o	Historial de compras
+    o	Lista de productos favoritos
+    o	Mis datos
+    •	Perfil Vendedor
+    #♣	Menú vendedor:
+    o	Notificaciones
+    o	Propuesta de Negocio
+    o	Ordes de compra sugeridas
+    o	Lista Productos favoritos
+    o	Dudas sobre productos
+  #  ♣	Menú Cliente:
+    o	Seguimiento
+    o	Informe de productos comprados
+    o	Historial de compras mis clientes
+    o	Respuesta dudas productos
+    o	Cuenta Corriente
+    o	Datos Cliente
+    o	Cambiar Cliente
+    •	Perfil Gerencia
+  #  ♣	Menú del usuario:
+    o	Notificaciones
+    o	Solicitudes de aprobación
+    ♣	Versión responsive para Gerencia
+    •	Perfil Jefe de Marca
+  #  ♣	Menú del usuario:
+    o	Notificaciones
+    o	Aprobación Producto
+    ♣	Versión responsive Jefe de Marca"
+  name0: "Diagrama General de Ventas"
+  flujo: "flujo.jpg"
+  name2: "Propuesta de Negocio"
+  flujo2: "flujo2.jpg"
+  name3: "Cliente"
+  flujo3: "flujo3.jpg"
+  name4: "Vendedor"
+  flujo4: "flujo4.jpg"
+  name5: "Validación Orden de Compra"
+  flujo5: "flujo5.jpg"
+  name6: "Crédito"
+  flujo6: "flujo6.jpg"
+  name7: "Validar Cantidades"
+  flujo7: "flujo7.jpg"
+  name8: "Seguimiento"
+  flujo8: "flujo8.jpg"
+  name9: "Buscar Repuestos"
+  flujo9: "flujo9.jpg"
+  name10: "Consultas"
+  flujo10: "flujo10.jpg"
+#  claim: "Lorem ipsum dolor sit amet consectetur.""
   call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
 
 - order: 003
@@ -72,11 +217,11 @@
   claim: "Lorem ipsum dolor sit amet consectetur."
   call-to-action: "Est blanditiis quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo."
 
-#  - order: 004
+  #- order: 004
   #name: "Golden"
   #category: "Website Design"
-#  date: "October 2015"
-  #client: "Client name"
+  #date: "October 2015"
+#  client: "Client name"
 #  web: "http://"
 #  photo: "golden.png"
 #  img-alt: "Photo description"
